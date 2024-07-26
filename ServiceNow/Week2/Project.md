@@ -1,5 +1,5 @@
 Project 0: AngularJS Application with API Integration.
-Completed
+
 
 Objective:
 Create a web application using AngularJS that incorporates data from an external API.
